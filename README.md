@@ -136,7 +136,7 @@ Since I didn’t use a paid VPS:
 
 ##  How to Run the Project
 
-## 1 Clone the repository
+ 1 Clone the repository
 ```bash
 git clone https://github.com/Supreetha669/web-scraping-selenium.git
 2️ Create virtual environment
@@ -158,6 +158,7 @@ Logs will be written to output.log
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6c3712b7-6eed-401d-b35a-fdf74662c85e" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1ce277b7-a0e4-4dbe-a621-d7c7c8884a73" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4fd3d009-787d-4858-b557-cb3c17e2adf8" />
+
 
 
 
